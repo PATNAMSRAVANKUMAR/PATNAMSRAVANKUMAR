@@ -8,15 +8,20 @@
 
 <div align="center">
 
-
-🎓 **B.Tech in Computer Science Engineering (Final Year)**  
 💻 **Aspiring Software Front-End Developer**  
 🌐 **Web Development | Python | SQL | HTML | CSS | JavaScript**  
 🚀 **CODSOFT Web Development Intern**  
-📍 **Chittoor,Andhra Pradesh,India**
+📍 **India**
 
 </div>
 
+---
+
+## 🎓 Education
+
+- **Degree:** B.Tech in Computer Science Engineering *(Final Year)*
+- **Status:** Fresher
+- **Focus:** Web Development, Front-End Development
 
 # 💫 About Me:
 👨‍💻 About Me<br><br>- 🚀 I’m currently working on **Responsive Frontend Web Development Projects**<br>- 🌱 I’m currently learning **React.js, Tailwind CSS, Cloud Computing, and Generative AI**<br>- 🤝 I’m looking to collaborate on **Frontend Development and Open Source Projects**<br>- 💡 I’m looking for help with **Advanced React, UI/UX Design, and Performance Optimization**<br>- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Responsive Web Design, and Git**<br>- 🏆 Certifications: **AWS Cloud Practitioner Essentials, Microsoft Generative AI, Deloitte Data Analytics, Cisco Python Essentials**<br>- ⚡ Fun fact: **I enjoy designing modern, responsive, and user-friendly web interfaces.**
