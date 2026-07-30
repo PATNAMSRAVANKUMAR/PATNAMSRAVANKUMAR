@@ -8,35 +8,12 @@
 
 <div align="center">
 
-🎓 **B.Tech in Computer Science Engineering (Final Year)**  
-💻 **Aspiring Software Front-End Developer**  
-🌐 **Web Development | Python | SQL | HTML | CSS | JavaScript**  
-🚀 **CODSOFT Web Development Intern**  
-📍 **India**
-
-</div>
-
-🎓 **B.Tech in Computer Science Engineering (Final Year)**  
-💻 **Aspiring Software Developer**  
-🌐 **Web Development | Python | SQL | HTML | CSS | JavaScript**  
-🚀 **CODSOFT Web Development Intern**  
-📍 **India**
-
-</div>
 
 🎓 **B.Tech in Computer Science Engineering (Final Year)**  
 💻 **Aspiring Software Front-End Developer**  
 🌐 **Web Development | Python | SQL | HTML | CSS | JavaScript**  
 🚀 **CODSOFT Web Development Intern**  
-📍 **India**
-
-</div>
-
-🎓 **B.Tech Computer Science Engineering (Final Year)**  
-💻 **Aspiring Software Developer**  
-🌐 **Web Development | Java | Python | SQL**  
-🚀 **CODSOFT Web Development Intern**  
-📍 **India**
+📍 **Chittoor,Andhra Pradesh,India**
 
 </div>
 
